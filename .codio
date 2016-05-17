@@ -1,0 +1,14 @@
+{
+// Configure your Run and Preview buttons here.
+
+// Run button configuration
+  "commands": {
+        "Configure Project": "bash drupalconfig.sh"
+  },
+
+// Preview button configuration
+  "preview": {
+        "Preview": "http://{{domain}}:3000/"
+      
+  }
+}
